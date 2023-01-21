@@ -2,9 +2,7 @@
 
 ## Group Project:
 
-0 - I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
-Writes a function that produces output according to a format.
+- task 0 - Write a function that produces output according to a format.`int _printf(const char *format, ...);`
 
-1 - Education is when you read the fine print. Experience is what you get if you don' t
-Handle the following conversion specifiers:
+- task 1 - Handle the following conversion specifiers: `d` and `i`
 
